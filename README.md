@@ -5,3 +5,4 @@ R10 Dome içinde otomatik mama makinası, mutfak prizi, lambader ve koridor ış
 
 🟢 Online 🔴 Offline 🔵 Aktif ⚫ MQTT Broker bağlantısı bulunmuyor ![io - Kopya (2)](https://user-images.githubusercontent.com/53586179/173256320-62405ffe-6508-41dc-902c-ba49801bd035.png) Açma/kapatma (I/O) Tuşu
 
+Proje genişlemeye devam etmektedir.
