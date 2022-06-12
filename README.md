@@ -1,2 +1,2 @@
 # R10-IoT-Dashboard
-Bu dosya "https://github.com/fvanroie/MqttClientPlugin/tree/master/examples/iot-dash" adresinden Jos Zuijderwijk tarafından yazılan kodların üzerine yapılmıştır.
+R10 Dome içinde otomatik mama makinası, mutfak prizi, lambader ve koridor ışıklarının durumunu Rainmeter platformu üzerinden Windows tabanlı sistemler üzerinde masaüstünde görüntülenmesini ve kontrolünü sağlar. Bu çalışmada Jos Zuijderwijk tarafından yazılan benzer bir projeden esinlenilmiştir.
